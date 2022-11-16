@@ -3,3 +3,6 @@
 
 set up github code
 
+## Transcript 
+collection time
+git 
